@@ -1,0 +1,4 @@
+AuthName "Page d'administration protegee"
+AuthType Basic
+AuthUserFile "S:/wamp64/www/visual_studio/source/repos/Digi-Geeks/mission7/13.9-operation9_1h/tests/_christophe/admin/.htpasswd"
+Require valid-user
